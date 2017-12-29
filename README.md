@@ -25,4 +25,4 @@ https://docs.google.com/presentation/d/1s-AzoUJNgJHfbVl8IR0QMZdu_BEZmvDKPVjVwetb
 
 https://docs.google.com/presentation/d/1xTHprQKLisG0TMIvaFw4aO5e75oNkKyyjNLjUwDyLbc/edit?usp=sharing
 
-(unfortuantely only one copy of source code was edited to make all the different animations possible)
+(source code above was edited to make all the different animations possible)
