@@ -1,7 +1,7 @@
 # P5.js
 Made an animated robot, with the ability to interact with the user.
 
-##See code and animation here:
+## See code and animation here:
 
 (CLICK ON THE LINK, AND THEN CLICK ON THE PLAY BUTTON IN THE TOP-LEFT CORNER)
 
@@ -12,7 +12,7 @@ Made an animated robot, with the ability to interact with the user.
 [Robot vs. Trump Tower :poop::] (http://alpha.editor.p5js.org/phyninja/sketches/Skk_taM6Z)
 
 
-##INTERACTIVITY: 
+## INTERACTIVITY: 
 
 
 See other examples of animation here: https://docs.google.com/presentation/d/1s-AzoUJNgJHfbVl8IR0QMZdu_BEZmvDKPVjVwetbJ_o/edit?usp=sharing
