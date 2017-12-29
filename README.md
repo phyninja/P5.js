@@ -7,6 +7,8 @@ Made an animated robot, with the ability to interact with the user.
 
 [Two friendly robots meeting and shaking hands](http://alpha.editor.p5js.org/phyninja/sketches/S1GylpbTZ)
 
+[Robot jumping in joy](http://alpha.editor.p5js.org/phyninja/sketches/ByT6hpfpb)
+
 [Robot's eyes flashing red](http://alpha.editor.p5js.org/phyninja/sketches/SymK53G6Z)
 
 [Robot vs. Trump Tower:poop:](http://alpha.editor.p5js.org/phyninja/sketches/Skk_taM6Z)
@@ -14,9 +16,13 @@ Made an animated robot, with the ability to interact with the user.
 
 ## Interactivity: 
 
+[Now you can control the Robot! Use the buttons 'Start', 'Stop' etc](http://alpha.editor.p5js.org/phyninja/sketches/SkgvcTG6Z)
+
 
 See other examples of animation here: 
 
 https://docs.google.com/presentation/d/1s-AzoUJNgJHfbVl8IR0QMZdu_BEZmvDKPVjVwetbJ_o/edit?usp=sharing
+
+https://docs.google.com/presentation/d/1xTHprQKLisG0TMIvaFw4aO5e75oNkKyyjNLjUwDyLbc/edit?usp=sharing
 
 (unfortuantely only one copy of source code was edited to make all the different animations possible)
